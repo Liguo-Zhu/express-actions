@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/4976b630-8230-4cc8-a738-1a33fd265158/resourceGroups/azurejune1/providers/Microsoft.Web/sites/lztest-web-app",
+  "appService.deploySubpath": "."
+}
